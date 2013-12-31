@@ -1,71 +1,71 @@
 000,000,000 // background
-051,051,051 // built-up area (city)
-000,000,102 // water solid
-000,051,000 // park
-000,051,000 // woodland
-051,051,000 // beach/dune/sand
-051,051,051 // industrial zone
+024,024,024 // built-up area (city)
+010,047,078 // water solid
+052,098,011 // park
+058,108,013 // woodland
+097,081,007 // beach/dune/sand
+024,024,024 // industrial zone
 051,051,051 // harbor/marina
-051,051,051 // moor/heath
-000,000,102 // marsh
-102,102,102 // pedestrian zone
-102,102,102 // airport
-102,102,102 // runway
-153,153,153 // route background ('below' the road)
-000,102,204 // route foreground (on top of the road)
-153,000,000 // blocked road (dotted on top of any road)
-153,051,000 // traffic jam (dotted on top of any road)
-000,136,000 // highlighted / selected (line on top of any road)
-102,102,102 // unreachable / not allowed to drive (dotted on top of any road)
-153,153,000 // motorway solid
-153,153,000 // motorway edge
-102,102,000 // motorway inside
-136,000,000 // motorway text
-051,051,000 // major/international road solid
-051,051,000 // major/international road edge
-153,153,000 // international road inside
-153,153,000 // major road inside
-051,051,000 // major road text
-153,153,000 // secondary road small
-153,153,000 // secondary road solid
-051,051,000 // secondary road edge
-153,153,000 // secondary road inside
-153,153,000 // secondary road text
-153,153,153 // connecting road small
-153,153,153 // connecting road solid
-051,051,000 // connecting road edge
-153,153,153 // connecting road inside
-153,153,000 // connecting road text
-153,153,153 // (major)local road small
-153,153,153 // major local road solid
-153,153,153 // local road solid
-000,000,000 // local/destination road edge
-153,153,153 // local/destination road inside
-085,085,085 // local road text
-153,153,153 // destination road solid
-085,085,085 // destination road text
-000,000,000 // ferry background
-000,000,136 // ferry dots
-000,000,136 // ferry text
-051,051,051 // railroad dashed A
-102,102,102 // railroad dashed B
-000,102,153 // water edge outlines
-000,000,000 // borders (dot-dash)
-051,051,204 // arrows (road direction)
-000,000,000 // arrows border (road direction)
-000,128,000 // Route indication arrow color, normal
-051,102,000 // Route indication arrow color, highlighted
-102,051,000 // Tollroad edge color
-153,102,051 // Tollroad inside color
+019,019,019 // moor/heath
+019,019,019 // marsh
+204,204,204 // pedestrian zone
+049,049,049 // airport
+053,049,052 // runway
+019,019,019 // route background ('below' the road)
+034,029,084 // route foreground (on top of the road)
+128,000,000 // blocked road (dotted on top of any road)
+096,060,000 // traffic jam (dotted on top of any road)
+034,029,084 // highlighted / selected (line on top of any road)
+128,000,000 // unreachable / not allowed to drive (dotted on top of any road)
+134,090,000 // motorway solid
+069,052,005 // motorway edge
+134,090,000 // motorway inside
+000,000,000 // motorway text
+134,090,000 // major/international road solid
+069,052,005 // major/international road edge
+134,090,000 // international road inside
+209,205,033 // major road inside
+000,000,000 // major road text
+204,204,204 // secondary road small
+204,204,204 // secondary road solid
+153,153,153 // secondary road edge
+204,204,204 // secondary road inside
+000,000,000 // secondary road text
+209,205,033 // connecting road small
+209,205,033 // connecting road solid
+163,120,022 // connecting road edge
+209,205,033 // connecting road inside
+000,000,000 // connecting road text
+204,204,204 // (major)local road small
+204,204,204 // major local road solid
+204,204,204 // local road solid
+204,204,204 // local/destination road edge
+204,204,204 // local/destination road inside
+000,000,000 // local road text
+204,204,204 // destination road solid
+000,000,000 // destination road text
+091,149,206 // ferry background
+058,112,177 // ferry dots
+051,068,102 // ferry text
+000,000,000 // railroad dashed A
+153,153,153 // railroad dashed B
+010,047,078 // water edge outlines
+054,054,054 // borders (dot-dash)
+085,085,085 // arrows (road direction)
+085,085,085 // arrows border (road direction)
+004,085,000 // Route indication arrow color, normal
+005,124,000 // Route indication arrow color, highlighted
+069,052,005 // Tollroad edge color
+134,090,000 // Tollroad inside color
 000,000,092 // NavView: status/safeview panel background (default:dark blue)
 080,080,190 // NavView: status/safeview panel borders (default:blue)
 255,255,255 // NavView: status/safeview panel text (default:white)
 206,207,255 // NavView: status/safeview panel dim text (default:lightblue)
 000,000,092 // NavView: next highway background
-204,204,204 // NavView: next highway border
-204,204,204 // NavView: next highway text
+255,255,255 // NavView: next highway border
+255,255,255 // NavView: next highway text
 000,128,000 // NavView: next highway EXIT background
-204,204,204 // NavView: next highway EXIT border
-204,204,204 // NavView: next highway EXIT text
-095,100,215 // NavView: routeplanning progressbar color
-153,051,102 // Distant route color
+255,255,255 // NavView: next highway EXIT border
+255,255,255 // NavView: next highway EXIT text
+057,048,143 // NavView: routeplanning progressbar color
+057,048,143 // Distant route color
