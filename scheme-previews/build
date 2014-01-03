@@ -1,0 +1,5 @@
+
+for f in ../schemes/*.clr ; do
+  ruby ./generate.rb "$f"
+done
+
